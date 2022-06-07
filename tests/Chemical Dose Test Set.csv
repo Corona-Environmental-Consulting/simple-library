@@ -1,0 +1,6 @@
+﻿Condition,pH0,pH.Final,Alk0,Temp0,Ca.Conc,Mg.Conc,Na.Conc,K.Conc,Cl.Conc,SO4.Conc,solve.x,chemical
+1,6,8,50,20,50,20,40,5,100,105,86,caustic
+2,6,8,50,20,50,20,40,5,100,105,79.5,lime
+3,8,6,50,20,50,20,40,5,100,105,33,sulfuric
+4,8,6.5,50,20,50,20,40,5,100,105,30,CO2
+5,8,6,50,20,50,20,40,5,100,105,25,hydrochloric
