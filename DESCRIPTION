@@ -1,0 +1,23 @@
+Package: coronaenv
+Title: Custom Corona Library
+Version: 1.0
+Type: Package
+Authors@R: 
+    person(given = "Juliette",
+           family = "Kaplan",
+           role = c("aut", "cre"),
+           email = "jkaplan@coronaenv.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Contains functions for consistent Corona plot formatting. Also contains functions for acid/base equilibrium calculations.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: 
+    tidyverse,
+    dplyr,
+    ggplot2,
+    rlang,
+    grDevices,
+    purrr
